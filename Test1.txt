@@ -1,0 +1,4 @@
+Create a new File in git directory.
+Add and commit tr file.
+Push the code to central repository.
+
